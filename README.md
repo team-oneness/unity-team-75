@@ -16,19 +16,28 @@ Unity Team 75 - Team Oneness
 ## Ürün Özellikleri
 
 ## Hedef Kitle
+Hedef kitlemiz oyun oynayan ve oyun oynamayı seven herkestir.
 
 ## Product Backlog URL
 
 # Sprint 1
-- **Sprint Notları**
-- **Sprint İçinde Tamamlanması Tahmin Edilen Puan**
-- **Puan Tamamlama Mantığı**
-- **Backlog Düzeni ve Story Seçimleri**
-- **Daily Scrum**
-- **Sprint Board Update**
-- **Ürün Durumu**
-- **Sprint Review**
-- **Sprint Restrospective**
-- **Diğer Notlar**
+- **Sprint Notları:**
+- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 100 puan
+- **Puan Tamamlama Mantığı:**
+- **Backlog Düzeni ve Story Seçimleri:**
+- **Daily Scrum:** Daily Scrum toplantılarımızın herkese uygun olması açısından Whatsapp üzerinden yapılmasına karar verilmiştir.
+Daily'lerimize ait ekran görüntüleri aşağıda paylaşılmıştır.
+
+![image](https://user-images.githubusercontent.com/48402741/167467443-69a6c381-bc37-4012-84aa-dd831579d83b.png)
+![image](https://user-images.githubusercontent.com/48402741/167467500-e7ca5b90-8921-42f3-b874-910e8622df47.png)
+
+- **Sprint Board Update:** Sprint board screenshotları
+
+- **Ürün Durumu:** Ürüne ait ekran görüntüleri
+
+- **Sprint Review:** 
+
+- **Sprint Restrospective:**
+
 
 
