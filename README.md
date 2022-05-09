@@ -19,6 +19,7 @@ Unity Team 75 - Team Oneness
 Hedef kitlemiz oyun oynayan ve oyun oynamayı seven herkestir.
 
 ## Product Backlog URL
+https://miro.com/welcomeonboard/WG90YjkwekQ3TWJ0NkpmWEE5SlI2RjlUS210VTBFMzg3OXlmNjlPUjNKQUl0Nk0zbHNZUDN5cDNCd1JLcUs1SXwzNDU4NzY0NTI0OTc2MDQyOTgz?share_link_id=913450459535 
 
 # Sprint 1
 - **Sprint Notları:**
