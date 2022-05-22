@@ -40,5 +40,21 @@ Daily'lerimize ait ekran görüntüleri aşağıda paylaşılmıştır.
 
 - **Sprint Restrospective:**
 
+# Sprint 2
+- **Sprint Notları:**
+- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 100 puan
+- **Puan Tamamlama Mantığı:**
+- **Backlog Düzeni ve Story Seçimleri:**
+- **Daily Scrum:** Daily Scrum toplantılarımızın herkese uygun olması açısından Whatsapp üzerinden yapılmasına karar verilmiştir.
+Daily'lerimize ait ekran görüntüleri aşağıda paylaşılmıştır.
+
+- **Sprint Board Update:** Sprint board screenshotları
+
+- **Ürün Durumu:** Ürüne ait ekran görüntüleri
+
+- **Sprint Review:** 
+
+- **Sprint Restrospective:**
+
 
 
