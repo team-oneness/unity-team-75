@@ -46,7 +46,7 @@ Daily'lerimize ait ekran görüntüleri aşağıda paylaşılmıştır.
 - **Puan Tamamlama Mantığı:**
 - **Backlog Düzeni ve Story Seçimleri:**
 - **Daily Scrum:** Daily Scrum toplantılarımızın herkese uygun olması açısından Whatsapp üzerinden yapılmasına karar verilmiştir.
-İkinci sprinte ait daily toplantılarımız aşağıda paylaşılmıştır.
+İkinci sprinte ait daily toplantılarımız paylaşılmıştır.
 [Scrum Daily.docx](https://github.com/team-oneness/unity-team-75/files/8750225/Scrum.Daily.docx)
 
 - **Sprint Board Update:** Sprint board screenshotları
