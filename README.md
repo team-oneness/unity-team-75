@@ -67,7 +67,12 @@ Daily Scrum toplantılarımızın herkese uygun olması açısından Whatsapp ü
 
 - **Sprint Board Update:**
 
-Sprint board screenshotları eklenecek.
+Sprint board screenshotları eklenmiştir.
+![image](https://user-images.githubusercontent.com/48402741/169866019-537b95c7-2daf-4805-9953-52e5cc00555f.png)
+![image](https://user-images.githubusercontent.com/48402741/169866145-61bebe04-abb8-4fd1-9941-282b6c09f1a6.png)
+![image](https://user-images.githubusercontent.com/48402741/169866466-52d890f0-0a3c-47de-be6a-03e380688ce6.png)
+![image](https://user-images.githubusercontent.com/48402741/169866669-440f351e-8bf7-4371-8997-62a14bc3d44c.png)
+
 
 - **Ürün Durumu:** 
 
