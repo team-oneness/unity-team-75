@@ -40,28 +40,47 @@ Daily'lerimize ait ekran görüntüleri aşağıda paylaşılmıştır.
 - **Sprint Restrospective:**
 
 # Sprint 2
-- **Sprint Notları:** User Story'ler backlogların detay kısmına eklenmiştir.
-- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 150 puan
-- **Puan Tamamlama Mantığı:** Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprintte istenilen hedeflere ulaşılamadığı için ikinci ve üçüncü sprintlerde 150 puanlık backlog'un tamamlanması gerekmektedir.
+
+- **Sprint Notları:** 
+
+User Story'ler backlogların detay kısmına eklenmiştir.
+
+- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 
+
+150 puan
+
+- **Puan Tamamlama Mantığı:** 
+
+Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprintte istenilen hedeflere ulaşılamadığı için ikinci ve üçüncü sprintlerde 150 puanlık backlog'un tamamlanması gerekmektedir. Projenin tamamlanması için daha kritik olan görevlere daha yüksek puanlar verilmiştir.
+
+
 - **Backlog Düzeni ve Story Seçimleri:** 
-- **Daily Scrum:** Daily Scrum toplantılarımızın herkese uygun olması açısından Whatsapp üzerinden yapılmasına karar verilmiştir.
+
+Backlog story'lerin öncelikleribe ve ilk yapılacak story'ye göre düzenlenmiştir. 2. Sprint için 150 puanlık backlogun tamamlanması planlanmıştır. 
+Backlog'da user story'ler task'lara bölünmüştür. Board üzerinde mavi renkli card'lar user story'leri gösterirken kırmızı renkli card'lar ise task'ları göstermektedir.
+
+
+- **Daily Scrum:** 
+
+Daily Scrum toplantılarımızın herkese uygun olması açısından Whatsapp üzerinden yapılmasına karar verilmiştir.
 İkinci sprinte ait daily toplantılarımız [burada](https://github.com/team-oneness/unity-team-75/files/8753691/Daily.Scrum.docx) paylaşılmıştır.
 
-- **Sprint Board Update:** Sprint board screenshotları
+- **Sprint Board Update:**
 
-- **Ürün Durumu:** Ürüne ait ekran görüntüleri
+Sprint board screenshotları
 
-- **Sprint Review:** Sprint Review Katılımcıları:
-    - Enver Eren Sarı
-    - Şeyma Çınar
-    - Barış Emre Alanç
-    - Merve Akpınar
+- **Ürün Durumu:** 
 
-- **Sprint Restrospective:** Sprint Retrospective Katılımcıları:
-    - Enver Eren Sarı
-    - Şeyma Çınar
-    - Barış Emre Alanç
-    - Merve Akpınar
+Ürüne ait ekran görüntüleri
+
+- **Sprint Review:** 
+
+Sprint Review Katılımcıları: Enver Eren Sarı, Şeyma Çınar, Barış Emre Alanç ve Merve Akpınar
+
+
+- **Sprint Restrospective:** 
+
+Sprint Retrospective Katılımcıları: Enver Eren Sarı, Şeyma Çınar, Barış Emre Alanç ve Merve Akpınar
 
 
 
