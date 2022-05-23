@@ -81,11 +81,16 @@ Sprint board screenshotları
 - **Sprint Review:** 
 
 Sprint Review Katılımcıları: Enver Eren Sarı, Şeyma Çınar, Barış Emre Alanç ve Merve Akpınar
+  - Oyun hikayesi ve kullanıcı hikayeleri konusuna daha fazla önem verilmesine karar verildi.
+  - Backlog puanlarının gözden geçirilmesine karar verildi.
 
 
 - **Sprint Restrospective:** 
 
 Sprint Retrospective Katılımcıları: Enver Eren Sarı, Şeyma Çınar, Barış Emre Alanç ve Merve Akpınar
+  - Daily toplantılarımızın yazılı bir şekilde düzenli devam etmesi herkes için iyi ilerliyor. Bunun yanı sıra haftada 1 kere sesli ve görüntülü bir şekilde iletişime geçmenin daha efektif ve verimli olacağına karar verildi.
+  - Somut bir ürün çıktısı almak tüm ekibi motive etti.
+ 
 
 
 
