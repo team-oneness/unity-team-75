@@ -71,7 +71,12 @@ Sprint board screenshotları
 
 - **Ürün Durumu:** 
 
-Ürüne ait ekran görüntüleri
+Ürüne ait  görüntüler aşağıda paylaşılmıştır.
+
+![ss](https://user-images.githubusercontent.com/48402741/169815504-e93eacf5-92e9-45d5-8f72-ff3b02e84d05.png)
+![ss](https://user-images.githubusercontent.com/48402741/169815630-c37f0870-b627-44d2-bd0b-02555f4e62eb.png)
+![gif](https://user-images.githubusercontent.com/48402741/169820845-b08b9c43-c05b-46e2-9d1c-942cb355a785.gif)
+
 
 - **Sprint Review:** 
 
