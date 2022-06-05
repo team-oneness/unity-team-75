@@ -136,14 +136,12 @@ Sprint board screenshotları eklenmiştir.
 
 - **Sprint Review:** 
 
-Sprint Review Katılımcıları: Enver Eren Sarı, Şeyma Çınar, Barış Emre Alanç ve Merve Akpınar
-- 
+
 
 
 - **Sprint Restrospective:** 
 
-Sprint Retrospective Katılımcıları: Enver Eren Sarı, Şeyma Çınar, Barış Emre Alanç ve Merve Akpınar
-- 
+
  
 
 
