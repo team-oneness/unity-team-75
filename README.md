@@ -147,6 +147,8 @@ Sprint board screenshotları eklenmiştir.
 ![image](https://user-images.githubusercontent.com/48402741/172222399-ea4f051c-6dc1-4b49-ae16-56f2d453bbbe.png)
 ![image](https://user-images.githubusercontent.com/48402741/172223432-fc6333f7-c090-4fd1-b031-ee4d0808fa72.png)
 ![image](https://user-images.githubusercontent.com/48402741/172224285-9a8f7280-0a2e-40bf-a551-e8095e3146e0.png)
+![image](https://user-images.githubusercontent.com/48402741/172230358-8e8391f1-1331-40bf-a667-c1fc01a09023.png)
+![image](https://user-images.githubusercontent.com/48402741/172230434-a2a69c9f-68a3-40fb-84ed-5a15d8fac903.png)
 
 
 
