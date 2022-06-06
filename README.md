@@ -120,7 +120,8 @@ Backlog'da user story'ler task'lara bölünmüştür. Board üzerinde mavi renkl
 - **Daily Scrum:** 
 
 Daily Scrum toplantılarımızın herkese uygun olması açısından Whatsapp üzerinden yapılmasına karar verilmiştir.
-İkinci sprinte ait daily toplantılarımız [burada]() paylaşılmıştır.
+İkinci sprinte ait daily toplantılarımız [burada]([Daily Scrum - Sprint 3.docx](https://github.com/team-oneness/unity-team-75/files/8845930/Daily.Scrum.-.Sprint.3.docx)
+) paylaşılmıştır.
 
 - **Sprint Board Update:**
 
@@ -131,6 +132,8 @@ Sprint board screenshotları eklenmiştir.
 - **Ürün Durumu:** 
 
 Ürüne ait  görüntüler aşağıda paylaşılmıştır.
+![image](https://user-images.githubusercontent.com/48402741/172201773-a6bc78c0-879e-41ef-8c67-0c3c12fba26f.png)
+
 
 
 
