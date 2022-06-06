@@ -126,12 +126,14 @@ Daily Scrum toplantılarımızın herkese uygun olması açısından Whatsapp ü
 - **Sprint Board Update:**
 
 Sprint board screenshotları eklenmiştir.
-![image](https://user-images.githubusercontent.com/48402741/172217173-962f4056-5d39-43cd-8ccc-653a4c7d86d2.png)
-![image](https://user-images.githubusercontent.com/48402741/172217253-e1b0a601-9a80-42ee-9d67-903d32e29bf8.png)
-![image](https://user-images.githubusercontent.com/48402741/172217320-d9e198e3-7ec4-4f42-b4e1-4c41983bfd31.png)
-![image](https://user-images.githubusercontent.com/48402741/172217352-e739930f-3670-4e92-9888-c0ae0c972a4e.png)
-![image](https://user-images.githubusercontent.com/48402741/172217397-bdf40ca2-46ef-4e0f-9a1d-7471af72dc67.png)
-![image](https://user-images.githubusercontent.com/48402741/172217431-66db2404-086e-4ff2-83a3-1a633257b52b.png)
+![image](https://user-images.githubusercontent.com/48402741/172224879-ea1b1bd2-0122-42ee-ad3c-ba7e7bfaaedf.png)
+![image](https://user-images.githubusercontent.com/48402741/172225040-296a060a-b311-4733-8701-cf1d49417370.png)
+![image](https://user-images.githubusercontent.com/48402741/172225272-9a8b94c6-b07b-47d4-96a1-2e840980b562.png)
+![image](https://user-images.githubusercontent.com/48402741/172225444-316a7b52-382f-4319-9fa9-cd40d412ebf6.png)
+![image](https://user-images.githubusercontent.com/48402741/172225503-349891a1-6cd3-4e7f-8285-b19f3af3f4c8.png)
+![image](https://user-images.githubusercontent.com/48402741/172225559-9e588341-e691-41ab-a274-5a75c8d8f41b.png)
+![image](https://user-images.githubusercontent.com/48402741/172225591-3ba35d2c-10c5-4521-aaf3-81434c1e7500.png)
+
 
 
 
@@ -139,9 +141,14 @@ Sprint board screenshotları eklenmiştir.
 
 Ürüne ait  görüntüler aşağıda paylaşılmıştır.
 
-![image](https://user-images.githubusercontent.com/48402741/172217560-55ef8b5e-b0a5-43ed-b7ad-02e4bfd85fd1.png)
-![image](https://user-images.githubusercontent.com/48402741/172217680-3432da4f-e43b-470e-82b2-2b2e6b2acc5b.png)
-![image](https://user-images.githubusercontent.com/48402741/172201773-a6bc78c0-879e-41ef-8c67-0c3c12fba26f.png)
+![image](https://user-images.githubusercontent.com/48402741/172222218-5b20da94-a314-475a-a2ca-b9da7cece8a4.png)
+![image](https://user-images.githubusercontent.com/48402741/172222268-ef75b81f-df08-4a4d-a92c-cdfd294bf408.png)
+![image](https://user-images.githubusercontent.com/48402741/172222371-7532f1a5-8b54-45b7-a5df-7bab6237dbd6.png)
+![image](https://user-images.githubusercontent.com/48402741/172222399-ea4f051c-6dc1-4b49-ae16-56f2d453bbbe.png)
+![image](https://user-images.githubusercontent.com/48402741/172223432-fc6333f7-c090-4fd1-b031-ee4d0808fa72.png)
+![image](https://user-images.githubusercontent.com/48402741/172224285-9a8f7280-0a2e-40bf-a551-e8095e3146e0.png)
+
+
 
 
 
@@ -155,7 +162,7 @@ Sprint Review Katılımcıları: Enver Eren Sarı, Şeyma Çınar, Barış Emre 
 - **Sprint Restrospective:** 
 Sprint Retrospective Katılımcıları: Enver Eren Sarı, Şeyma Çınar, Barış Emre Alanç ve Merve Akpınar
 - Planlanan şekilde görüşmelerin yapılamaması, iletişim konusunda bazı sıkıntılar yaşanması konuşuldu.
--
+
 
 
  
