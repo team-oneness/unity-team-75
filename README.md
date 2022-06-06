@@ -95,6 +95,53 @@ Sprint Review Katılımcıları: Enver Eren Sarı, Şeyma Çınar, Barış Emre 
 Sprint Retrospective Katılımcıları: Enver Eren Sarı, Şeyma Çınar, Barış Emre Alanç ve Merve Akpınar
 - Daily toplantılarımızın yazılı bir şekilde düzenli devam etmesi herkes için iyi ilerliyor. Bunun yanı sıra haftada 1 kere sesli ve görüntülü bir şekilde iletişime geçmenin daha efektif ve verimli olacağına karar verildi.
 - Somut bir ürün çıktısı almak tüm ekibi motive etti.
+
+# Sprint 3
+
+- **Sprint Notları:** 
+
+User Story'ler backlogların detay kısmına eklenmiştir.
+
+- **Sprint İçinde Tamamlanması Tahmin Edilen Puan:** 
+
+150 puan
+
+- **Puan Tamamlama Mantığı:** 
+
+Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. İlk sprintte istenilen hedeflere ulaşılamadığı için ikinci ve üçüncü sprintlerde 150 puanlık backlog'un tamamlanması gerekmektedir. Projenin tamamlanması için daha kritik olan görevlere daha yüksek puanlar verilmiştir.
+
+
+- **Backlog Düzeni ve Story Seçimleri:** 
+
+Backlog story'lerin öncelikleribe ve ilk yapılacak story'ye göre düzenlenmiştir. 3. Sprint için 150 puanlık backlogun tamamlanması planlanmıştır. 
+Backlog'da user story'ler task'lara bölünmüştür. Board üzerinde mavi renkli card'lar user story'leri gösterirken kırmızı renkli card'lar ise task'ları göstermektedir.
+
+
+- **Daily Scrum:** 
+
+Daily Scrum toplantılarımızın herkese uygun olması açısından Whatsapp üzerinden yapılmasına karar verilmiştir.
+İkinci sprinte ait daily toplantılarımız [burada]() paylaşılmıştır.
+
+- **Sprint Board Update:**
+
+Sprint board screenshotları eklenmiştir.
+
+
+
+- **Ürün Durumu:** 
+
+Ürüne ait  görüntüler aşağıda paylaşılmıştır.
+
+
+
+- **Sprint Review:** 
+
+
+
+
+- **Sprint Restrospective:** 
+
+
  
 
 
