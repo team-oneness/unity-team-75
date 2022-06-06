@@ -15,10 +15,10 @@ Demir Yürek - Iron Heart
 Ürün 3 bölümden oluşan Iron Heart adlı oyundur. Oyunumuzun ana karakteri Robi'nin dostları kaçılmış ve farklı evrenlerde hapsedilmiştir. Robi 3 evrendeki dostlarına ulaşmaya ve onları kurtarmaya çalışmaktadır. Oyun 4 haftada üretilmiştir. 
 
 ## Ürün Özellikleri
-Ürün Unity oyun motoruyla geliştirilmiştir.
-Kodlamasında C# yazılım dili kullanılmıştır. 
-Farklı çevre modellemelerine sahip 3 bölümden oluşmaktadır.
-Basit mekaniklere sahiptir.
+- Ürün Unity oyun motoruyla geliştirilmiştir.
+- Kodlamasında C# yazılım dili kullanılmıştır. 
+- Farklı çevre modellemelerine sahip 3 bölümden oluşmaktadır.
+- Basit mekaniklere sahiptir.
 
 ## Hedef Kitle
 Hedef kitlemiz oyun oynayan ve oyun oynamayı seven herkestir.
